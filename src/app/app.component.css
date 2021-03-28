@@ -1,0 +1,16 @@
+div h1 {
+    text-align: center;
+    color: darkgoldenrod;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div h2 {
+    text-align: center;
+    color: darkgoldenrod;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div p {
+    text-align: center;
+    font-size: 25px;
+}
